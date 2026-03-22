@@ -18,8 +18,8 @@ To write a Python program to build a binary tree with a root, left, and right no
 
 ## PYTHON PROGRAM
 
-#Reg.no 212222090012
-#Name Lokeshwari D
+```
+
 
 from binarytree import build
 l=[]
